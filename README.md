@@ -1,5 +1,10 @@
 # ft_printf
 
+A simple 42 school project in which we recreate behavior of the C language function printf.
+
+This project taught me about variadic variables.
+
+
 How to use this project :
 
 1. Download this repository using git@github.com:nicolkaver/ft_printf.git.
